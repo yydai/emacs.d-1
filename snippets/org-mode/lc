@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name:latex code
+# key: lc
+# --
+\begin{minted}[frame=single,mathescape,xleftmargin=10pt,breaksymbolsep=1pt, breaklines, breakafter=d]{$1}
+$2
+\end{minted}

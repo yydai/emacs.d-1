@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: latex code v2
+# key: lc2
+# --
+\begin{lstlisting}[style = $1, style = lmathescape, caption = {$2}]
+$0
+\end{lstlisting}

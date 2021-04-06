@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: softmax
+# key: softmax
+# --
+\frac{e ^ {x_i}}{\sum_{j = 1}^{N} {e^{x_j}}}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: note macros
+# key: frame
+# --
+\begin{frame}{$0}
+$1
+\end{frame}

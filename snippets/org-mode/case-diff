@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: testtestt
+# key: c
+# --
+${1:$$(yas-choose-value '("好" "中" "差"))},${2:$$(yas-choose-value '("优于" "持平" "差"))}

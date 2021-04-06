@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org model latex header for output pdf
+# key: lh
+# --
+#+SETUPFILE: header.org
+#+LATEX: \pagenumbering{arabic}

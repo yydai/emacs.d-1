@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: personal-note-style
+# key: note
+# --
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="cus.css" />
+#+OPTIONS: html-preamble:nil html-postamble:nil

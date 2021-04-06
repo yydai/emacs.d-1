@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: compile-command
+# key: cm
+# --
+/* Local Variables: */
+/* compile-command:"gcc -Wall -O3 -o f $0 && ./f " */
+/* End: */

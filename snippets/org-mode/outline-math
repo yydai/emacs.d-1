@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: outline math
+# key: ol
+# --
+$$
+$0
+$$
